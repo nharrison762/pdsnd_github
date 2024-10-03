@@ -15,3 +15,5 @@ Data pulled from a csv document located in the the project directory.
 
 ### Credits
 Project forked from [Udacity](https://github.com/udacity/pdsnd_github)
+
+Special thanks to my cat for emotional support.
