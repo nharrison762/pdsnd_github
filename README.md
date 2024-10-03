@@ -2,7 +2,7 @@
 Project creation date: October 3, 2024
 Readme creation date: October 3, 2024
 
-### The First Bikeshare 2
+### Bikeshare Tracker
 
 ### Description
 This program allows the user to explore bikeshare date for Chicago, New York City, and Washington.
