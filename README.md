@@ -1,17 +1,19 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+Project creation date: October 3, 2024
+Readme creation date: October 3, 2024
 
-### Project Title
-Replace the Project Title
+## Bikeshare Tracker
 
 ### Description
-Describe what your project is about and what it does
+This program allows the user to explore bikeshare date for Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+Data pulled from a csv document located in the the project directory.
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Project forked from [Udacity](https://github.com/udacity/pdsnd_github)
 
+Special thanks to my cat for emotional support.
